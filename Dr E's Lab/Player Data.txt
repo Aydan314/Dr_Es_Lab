@@ -1,0 +1,10 @@
+Health: 200
+Damage: 40
+Firing Rate: 20
+Crit Chance: 20
+Microchips: 90
+Repair Kits: 9
+Checkpoint: 4
+Completed Game: True
+Endless Score: 6
+Done Tutorial: True
